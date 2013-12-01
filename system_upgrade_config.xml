@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<upgrade version="2" versionCode="TestVersion" hw="new" mode="force" patchCode="none"><![CDATA[http://oss.aliyuncs.com/myche/upgrade.zip]]></upgrade>
+</root>

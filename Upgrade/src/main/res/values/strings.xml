@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">系统升级</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="yes">是，升级</string>
+    <string name="no">不，稍后</string>
+    <string name="system_upgrade_Immediately">立即进行系统升级？</string>
+    <string name="upgrade_next_time">您选择下次升级</string>
+    <string name="please_wait">请稍后</string>
+</resources>
